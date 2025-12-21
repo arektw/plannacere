@@ -580,8 +580,8 @@ Pozwól, że pomogę Ci napisać jej nowy, piękny rozdział.</p>
       <div class="footer-bottom">
         <div class="footer-copyright">
           <span>© 2025 Plan na cerę</span>
-          <a href="#">Polityka prywatności</a>
-          <a href="#">Regulamin</a>
+          <a href="/PolitykaPrywatnosci.pdf" target="_blank">Polityka prywatności</a>
+          <a href="/RegulaminKonsultacjeOnlineMobilne.pdf" target="_blank">Regulamin</a>
         </div>
       </div>
     </div>
