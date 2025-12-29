@@ -212,7 +212,7 @@ Pozwól, że pomogę Ci napisać jej nowy, piękny rozdział.</p>
             <h3>Konsultacja z planem na cerę</h3>
             <div class="price">299 zł</div>
           </div>
-          <p class="card-description">Dla cer, które które nie potrzebują spotkania na żywo, by uporządkować pielęgnację. Najwygodniejsza dla tych, którzy cenią spokój i oszczędność czasu - zwłaszcza przy napiętym grafiku.</p>
+          <p class="card-description">Dla cer, które nie potrzebują spotkania na żywo, by uporządkować pielęgnację. Najwygodniejsza dla tych, którzy cenią spokój i oszczędność czasu - zwłaszcza przy napiętym grafiku.</p>
           <ul class="card-features">
             <li>Ankieta przed konsultacją</li>
             <li><strong>60 min. </strong>konsultacji online przy pomocy wybranego komunikatora</li>
@@ -393,7 +393,7 @@ Pozwól, że pomogę Ci napisać jej nowy, piękny rozdział.</p>
                 <span class="faq-toggle">+</span>
               </div>
               <div class="faq-answer">
-                <p>Plan na cerę otrzymasz <strong>w ciągu 5 dni roboczych</strong> od naszej konsultacji online.</p>
+                <p>Plan na cerę otrzymasz <strong>w ciągu 5 dni roboczych</strong> od naszej konsultacji.</p>
 
                 <p>Jest to dokument w formacie PDF, w którym znajdziesz:</p>
                 <ul>
