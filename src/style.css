@@ -783,6 +783,7 @@ p.author-signature {
   align-items: center;
   padding: 16px 0;
   cursor: pointer;
+  gap: 16px;
 }
 
 .faq-question h4 {
@@ -791,6 +792,8 @@ p.author-signature {
   font-size: 20px;
   line-height: 30px;
   margin: 0;
+  flex: 1;
+  min-width: 0;
 }
 
 .faq-toggle {
@@ -799,11 +802,14 @@ p.author-signature {
   transition: transform 0.3s ease, background 0.2s ease, border-color 0.2s ease;
   width: 32px;
   height: 32px;
+  min-width: 32px;
+  min-height: 32px;
   border-radius: 50%;
   border: 1px solid #222222;
-  display: inline-flex;
+  display: flex;
   align-items: center;
   justify-content: center;
+  flex-shrink: 0;
 }
 
 .faq-item.active .faq-toggle {
@@ -1650,6 +1656,23 @@ p.author-signature {
     gap: 40px;
   }
   
+  .faq-question {
+    gap: 12px;
+  }
+  
+  .faq-toggle {
+    width: 32px;
+    height: 32px;
+    min-width: 32px;
+    min-height: 32px;
+    flex-shrink: 0;
+  }
+  
+  .faq-question h4 {
+    font-size: 18px;
+    line-height: 26px;
+  }
+  
   .offer-card .card-description,
   .offer-card .card-features {
     text-align: center !important;
@@ -1785,6 +1808,24 @@ p.author-signature {
     line-height: 27px;
   }
   
+  .faq-question {
+    gap: 10px;
+    padding: 14px 0;
+  }
+  
+  .faq-toggle {
+    width: 32px;
+    height: 32px;
+    min-width: 32px;
+    min-height: 32px;
+    flex-shrink: 0;
+  }
+  
+  .faq-question h4 {
+    font-size: 17px;
+    line-height: 24px;
+  }
+  
   .offer-card, .testimonial-card, .benefit-card, .process-step {
     padding: 30px 20px;
   }
@@ -1835,6 +1876,25 @@ p.author-signature {
   .section-title {
     font-size: 20px;
     line-height: 30px;
+  }
+  
+  .faq-question {
+    gap: 8px;
+    padding: 12px 0;
+  }
+  
+  .faq-toggle {
+    width: 32px;
+    height: 32px;
+    min-width: 32px;
+    min-height: 32px;
+    flex-shrink: 0;
+    font-size: 18px;
+  }
+  
+  .faq-question h4 {
+    font-size: 16px;
+    line-height: 22px;
   }
   
   .offer-card, .testimonial-card, .benefit-card, .process-step {
