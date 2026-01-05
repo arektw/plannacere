@@ -118,7 +118,7 @@ document.querySelector('#app').innerHTML = `
           <p>Zaczynałam jako informatyk, projektując rozwiązania, które upraszczały złożone rzeczy. To podejście zostało ze mną do dziś. Jako kosmetolog tłumaczę pielęgnację prostym językiem - bo wiem, jak to jest być poza światem beauty. Na co dzień tworzę indywidualne plany terapeutyczne z ciekawością obserwując, jak współczesny styl życia wpływa na naszą skórę.</p>
           <p>W pracy stawiam na zrozumienie potrzeb każdego podopiecznego oraz przyjazną i otwartą atmosferę.</p>
           <h4>Dlaczego to robię?</h4>
-          <p>Moją największą motywacją jest inspirowanie do świadomej pielęgnacji i zdrowego stylu życia. Prowadzę profil na Instagramie @plannacere, gdzie dzielę się wiedzą i pomagam przywrócić radość z codziennej pielęgnacji.</p>
+          <p>Moją największą motywacją jest inspirowanie do świadomej pielęgnacji i zdrowego stylu życia. Prowadzę profil na Instagramie plannacere, gdzie dzielę się wiedzą i pomagam przywrócić radość z codziennej pielęgnacji.</p>
           <p class="author-signature">- Magdalena Twarogowska</p>
         </div>
         <div class="about-image">
@@ -579,7 +579,7 @@ Pozwól, że pomogę Ci napisać jej nowy, piękny rozdział.</p>
       
       <div class="footer-bottom">
         <div class="footer-copyright">
-          <span>© 2025 Plan na cerę</span>
+          <span>© 2026 Plan na cerę</span>
           <a href="/PolitykaPrywatnosci.pdf" target="_blank">Polityka prywatności</a>
           <a href="/RegulaminKonsultacjeOnlineMobilne.pdf" target="_blank">Regulamin</a>
         </div>
