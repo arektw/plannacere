@@ -116,7 +116,7 @@
           <p>Zaczynałam jako informatyk, projektując rozwiązania, które upraszczały złożone rzeczy. To podejście zostało ze mną do dziś. Jako kosmetolog tłumaczę pielęgnację prostym językiem - bo wiem, jak to jest być poza światem beauty. Na co dzień tworzę indywidualne plany terapeutyczne z ciekawością obserwując, jak współczesny styl życia wpływa na naszą skórę.</p>
           <p>W pracy stawiam na zrozumienie potrzeb każdego podopiecznego oraz przyjazną i otwartą atmosferę.</p>
           <h4>Dlaczego to robię?</h4>
-          <p>Moją największą motywacją jest inspirowanie do świadomej pielęgnacji i zdrowego stylu życia. Prowadzę profil na Instagramie plannacere, gdzie dzielę się wiedzą i pomagam przywrócić radość z codziennej pielęgnacji.</p>
+          <p>Moją największą motywacją jest inspirowanie do świadomej pielęgnacji i zdrowego stylu życia. Prowadzę profil na Instagramie @plannacere, gdzie dzielę się wiedzą i pomagam przywrócić radość z codziennej pielęgnacji.</p>
           <p class="author-signature">- Magdalena Twarogowska</p>
         </div>
         <div class="about-image">
@@ -212,7 +212,7 @@ Pozwól, że pomogę Ci napisać jej nowy, piękny rozdział.</p>
             <h3>Konsultacja z planem na cerę</h3>
             <div class="price">299 zł</div>
           </div>
-          <p class="card-description">Dla cer, które nie potrzebują spotkania na żywo, by uporządkować pielęgnację. Najwygodniejsza dla tych, którzy cenią spokój i oszczędność czasu - zwłaszcza przy napiętym grafiku.</p>
+          <p class="card-description">Dla cer, które które nie potrzebują spotkania na żywo, by uporządkować pielęgnację. Najwygodniejsza dla tych, którzy cenią spokój i oszczędność czasu - zwłaszcza przy napiętym grafiku.</p>
           <ul class="card-features">
             <li>Ankieta przed konsultacją</li>
             <li><strong>60 min. </strong>konsultacji online przy pomocy wybranego komunikatora</li>
@@ -393,7 +393,7 @@ Pozwól, że pomogę Ci napisać jej nowy, piękny rozdział.</p>
                 <span class="faq-toggle">+</span>
               </div>
               <div class="faq-answer">
-                <p>Plan na cerę otrzymasz <strong>w ciągu 5 dni roboczych</strong> od naszej konsultacji.</p>
+                <p>Plan na cerę otrzymasz <strong>w ciągu 5 dni roboczych</strong> od naszej konsultacji online.</p>
 
                 <p>Jest to dokument w formacie PDF, w którym znajdziesz:</p>
                 <ul>
@@ -577,7 +577,7 @@ Pozwól, że pomogę Ci napisać jej nowy, piękny rozdział.</p>
       
       <div class="footer-bottom">
         <div class="footer-copyright">
-          <span>© 2026 Plan na cerę</span>
+          <span>© 2025 Plan na cerę</span>
           <a href="/PolitykaPrywatnosci.pdf" target="_blank">Polityka prywatności</a>
           <a href="/RegulaminKonsultacjeOnlineMobilne.pdf" target="_blank">Regulamin</a>
         </div>
